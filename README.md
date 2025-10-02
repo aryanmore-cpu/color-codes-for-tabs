@@ -26,6 +26,3 @@ Simple Tab Colorizer is a lightweight Chrome extension that allows users to colo
 ## Permissions
 - `activeTab`: Required to modify the favicon of the current tab.
 - `scripting`: Used to inject code for favicon updates.
-
-## License
-MIT
