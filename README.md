@@ -1,3 +1,5 @@
+## Limitations
+Due to Chrome's security model and some websites' Content Security Policy (CSP), this extension may not work on certain sites (e.g., WhatsApp Web, GitHub, Chrome Web Store, and other internal Chrome pages). Script injection is only possible on sites that permit it.
 
 # Simple Tab Colorizer Chrome Extension
 
